@@ -10,16 +10,16 @@ function DiceRoll() {
   };
   return (
     <Flex height="100vh" align="center" justify="center">
-      <Box>
+      <Box position="relative" spaceY="8">
         <Box>
-          <Center margin="5rem" fontSize="18rem">
+          <Center fontSize="18rem">
             <FaDiceD20 />
           </Center>
         </Box>
 
         <Box
           position="absolute"
-          top="49%"
+          top="35%"
           left="50%"
           transform="translate(-50%, -50%)"
         >
