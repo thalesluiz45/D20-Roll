@@ -1,6 +1,6 @@
 <div align="center">
   
-# Role um D20
+# <img width="40px" align="center" src="https://github.com/thalesluiz45/D20-Roll/blob/main/public/dice-twenty-faces-one-svgrepo-com.svg"> Role um D20  <img width="40px" align="center" src="https://github.com/thalesluiz45/D20-Roll/blob/main/public/dice-twenty-faces-one-svgrepo-com.svg">
 
 <h4>Uma simples aplicação de rolagem de dado criada com ReactJS + ChakraUI.</h4>
 <p>
