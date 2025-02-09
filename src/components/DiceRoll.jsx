@@ -33,7 +33,8 @@ function DiceRoll() {
           </Center>
         </Box>
         <Center>
-          <Button variant="outline" onClick={generateRandomNumber}>
+          <Button size="xl" variant="outline" onClick={generateRandomNumber}>
+            <FaDiceD20 />
             Rolar Dado!
           </Button>
         </Center>
